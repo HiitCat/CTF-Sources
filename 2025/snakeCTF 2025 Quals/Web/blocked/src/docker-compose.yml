@@ -4,7 +4,7 @@ services:
     build: .
     restart: unless-stopped
     environment:
-      FLAG: snakeCTF{f4k3_fl4g_f0r_t3st1ng}
+      FLAG: snakeCTF{4n0n_byp4553d_th3_f1lt3r_4543ad7fe7e2f82a}
       LOG_SOLVE: 1
     ports:
       - "3000:3000"

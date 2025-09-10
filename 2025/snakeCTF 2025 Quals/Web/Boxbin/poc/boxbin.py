@@ -16,7 +16,7 @@ from typing import Optional, Dict, Any
 import requests
 
 # ---------- Config ----------
-BASE_URL = "https://7c77ce6f16128709d469e4e1b7869302.boxbin.challs.snakectf.org/"
+BASE_URL = "http://localhost:3000/"
 
 GQL_ENDPOINT = BASE_URL.rstrip("/") + "/api/graphql"
 
