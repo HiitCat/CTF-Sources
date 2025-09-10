@@ -20,7 +20,6 @@ if(isset($_POST['input']) && is_scalar($_POST['input'])) {
     $input = addslashes($input);
     $input = addcslashes($input, '+?<>&v=${}%*:.[]_-0123456789xb `;');
     try {
-        $input = "readfile(implode(array(chr(102),chr(108),chr(97),chr(103),chr(46),chr(112),chr(104),chr(112))))";
         $output = eval("$input;");
     } catch (Exception $e) {
         // nope, nothing

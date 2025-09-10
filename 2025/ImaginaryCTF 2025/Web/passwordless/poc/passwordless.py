@@ -31,5 +31,5 @@ with requests.Session() as s:
     # 5) Accéder au dashboard (flag attendu ici)
     r = s.get(f"{BASE}/dashboard", timeout=10)
     print("[*] Dashboard status:", r.status_code)
-    # Affiche un extrait pour repérer le flag
-    print(r.text)
+    # affiche le flag ictf{}
+    print("[*] Flag:", r.text.split('id="flag">')[1].split("</span>")[0])
