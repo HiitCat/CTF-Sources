@@ -1,0 +1,69 @@
+[+] Solve 6de6162a9274b129823ba174 with DCDRB2
+[+] Solve 647ae4bd013aadadb9f87528 with 42GVD8
+[+] Solve 269e7baedaeff2321a484d0f with UAS9G8
+[+] Solve faef1cd97abdd8212820b70f with DCN6XE
+[+] Solve a376c6e3f0d24d33ef985786 with BTFMTS
+[+] Solve 710ef950f9ddee539a6c058b with HSNRGS
+[+] Solve 7a26b43dcb75da0d8122a9d7 with 7785P3
+[+] Solve c8a032e00f036b2b4916e950 with 9Q5GX9
+[+] Solve 1809530bc3e9314ba902344b with 23J6LS
+[+] Solve 146dbd4b2c08c69fdee7bcd7 with 5KXP9Q
+[+] Solve ebee0e6a13d62cbe1b32b21f with SWDXVH
+[+] Solve 02b12fdfcadc0af1ee92aa7b with 2X2DFN
+[+] Solve 43b0e0d636a402433c5dc586 with 76CPCD
+[+] Solve 715d1d17d8f2d5f07e60cfd5 with EWFHQU
+[+] Solve 49c5c8d7008847205d40cf95 with DVNDDX
+
+[+] Tokens collected : ['611163829b6ec365d4ecb1861f138805', '5aa39ff94d2bf9c6def79e60f6e29cd1', 'a586b16a935b366d8a0499d692947e0a', 'b5238c6b61c1ae6d7afb9c0e5161ccb6', 'e0634c217e2c71591cc70ec3dfcfbcc6', '6b5542e2e4a9fbfcf7022e2d291ee161', '2518821767aa4fb35934bf8532256c48', 'b96262ae8713282c5005d60134a1ac5d', '004d683892b95bcbf2f8dbbef13c5b75', 'e91b33f4977148364ff83a48cda7a9d1', '6611d6657adea4ac9cfab1af038620eb', 'f398fffc2ee2555e8ae6af2655e0b4f1']
+[+] Header solvedCaptchas : solvedCaptchas=611163829b6ec365d4ecb1861f138805,5aa39ff94d2bf9c6def79e60f6e29cd1,a586b16a935b366d8a0499d692947e0a,b5238c6b61c1ae6d7afb9c0e5161ccb6,e0634c217e2c71591cc70ec3dfcfbcc6,6b5542e2e4a9fbfcf7022e2d291ee161,2518821767aa4fb35934bf8532256c48,b96262ae8713282c5005d60134a1ac5d,004d683892b95bcbf2f8dbbef13c5b75,e91b33f4977148364ff83a48cda7a9d1,6611d6657adea4ac9cfab1af038620eb,f398fffc2ee2555e8ae6af2655e0b4f1
+<style>
+  * {
+    color: #789922;
+  }
+</style>
+
+<pre>
+> be me
+> 19 year old NEET
+> decide to try this CTF challenge
+> sounds ez enough, just solve some captchas kek
+> click start
+> 10 captchas in 10 seconds
+> wut.jpg
+> first captcha looks like abstract art made by a toddler
+> squint at screen like I'm trying to decipher hieroglyphs
+> type "Q8XN2M"
+> wrong
+> try "08XN2M"
+> still wrong
+> hyperfocus mode activated
+> 9 captchas left, already 5 seconds gone
+> frantically mashing refresh button
+> sweating tendies
+> timer hits zero
+> youreoutoftime.exe
+> stare at screen having a mental breakdown
+> try again
+> same result
+> and again
+> starting to question if I'm actually human
+> maybe I should just go back to /g/ and seethe about programming languages
+> other anons probably solving this ez pz
+> meanwhile I'm here getting absolutely rekt by squiggly lines
+> mfw i realize i could have gone outside and touched grass instead of this
+> mfw i realize a 6 year old could probably solve this faster than me
+> mfw the flag is literally snakeCTF{4n0n_byp4553d_th3_f1lt3r_4543ad7fe7e2f82a}
+> mfw there is a song for this challenge
+> bleeding_ears.mp3
+</pre>
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/Af8knRyzQpI?si=M9FPVFUX_feGo85-"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"        
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+></iframe>

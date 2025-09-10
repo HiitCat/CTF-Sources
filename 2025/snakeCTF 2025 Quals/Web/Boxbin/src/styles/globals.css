@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#060606] text-white antialiased overflow-x-hidden;
+}
+
+.sprinkle {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: hsl(0, 100%, 70%);
+  border-radius: 50%;
+  pointer-events: none;
+  opacity: 1;
+  transition: opacity 0.8s linear, transform 0.8s ease-out;
+}
+
+@keyframes colorcycle {
+  0%   { color: red }
+  25%  { color: orange }
+  50%  { color: lime }
+  75%  { color: cyan }
+  100% { color: red }
+}
+
+.colorful-text {
+  animation: colorcycle 4s linear infinite;
+}

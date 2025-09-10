@@ -1,0 +1,14 @@
+---
+services:
+  # https://github.com/puppeteer/puppeteer/issues/5622#issuecomment-1042921429
+  next-app:
+    build: .
+    restart: unless-stopped
+    read_only: true
+    ports:
+      - 3000:3000
+    volumes:
+      - type: tmpfs
+        target: /tmp
+    environment:
+      NODE_ENV: production

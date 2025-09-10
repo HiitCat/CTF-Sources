@@ -1,0 +1,14 @@
+---
+services:
+  chall:
+    build: .
+    restart: unless-stopped
+    environment:
+      FLAG: snakeCTF{f4k3_fl4g_f0r_t3st1ng}
+      LOG_SOLVE: 1
+    ports:
+      - "3000:3000"
+    read_only: true
+    volumes:
+      - type: tmpfs
+        target: /tmp

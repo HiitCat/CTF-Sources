@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.captcha-container {
+  position: relative;
+  width: 500px;
+  height: 120px;
+  border: 1px solid #ddd;
+  overflow: hidden;
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+.captcha-background-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#captcha-bg {
+  max-width: max-content;
+  position: absolute;
+  top: 0;
+  left: 0px;
+  height: 100%;
+}
+
+#captcha-fg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
